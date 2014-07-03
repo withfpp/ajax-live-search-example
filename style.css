@@ -1,0 +1,15 @@
+ul, li {
+  list-style: none;
+  padding:0px;
+}
+
+li {
+  padding: 10px;
+  background-color:coral;
+  color:white;
+}
+
+h2 {
+  font-weight: bold;
+  color:brown;
+}
