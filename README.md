@@ -3,7 +3,6 @@ ajax-live-search-example
 
 this is an example of Live search using ajax and json
 
-if you want to make live search engine? <br/>
 
 twitter bootstrap, jQuery, JSON is used. <br>
 
